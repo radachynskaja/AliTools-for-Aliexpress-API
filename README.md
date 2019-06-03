@@ -7,5 +7,5 @@ The data gathered via extension reflects buyers interest. We have information ab
 
 The data will be available by monthly subscription, plans will differ according to the data volume. There are also real-time and historical data options. At the moment the API is under development, but we can provide a test dataset.
 
-# First step will be a partner API available only restricted group of users. This is needed to test API usability, check if our formatting rules are consistent enough, if our data is reach enough to be valuable for potential customers. Write me in case you are interested in getting the partner access. My e-mail: alina.radachynskaja@bdtech.by
+**First step will be a partner API available only restricted group of users. This is needed to test API usability, check if our formatting rules are consistent enough, if our data is reach enough to be valuable for potential customers. Write me in case you are interested in getting the partner access. My e-mail: alina.radachynskaja@bdtech.by
 
